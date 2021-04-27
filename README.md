@@ -14,13 +14,8 @@
 
 - 📫 Contact me **[here](raginianvekar@gmail.com)**
 
-<!-- - 📄 My Resume [https://drive.google.com/file/d/10z7nWMOMKMj2KtOxszcxYI2b0sQrxFpn/view?usp=sharing](https://drive.google.com/file/d/10z7nWMOMKMj2KtOxszcxYI2b0sQrxFpn/view?usp=sharing) -->
-
-- ⚡ Fun fact **People often call me an alien**
 
 ## ✍ My Work
-
-[![Ragini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragpanv&show_icons=true&theme=dark)](https://github.com/ragpanv)
 
 Here are some of my projects on Github that I am proud of:
 
