@@ -1,7 +1,7 @@
 # ragpanv
 ![Ragini P Anvekar's-cover](./cover.png)
 
-## 🧔 About Me
+## 😉 About Me
 
 - 🔭 I’m currently working on [Disucssion-forum](https://github.com/ragpanv/discussion-forum)
 
@@ -20,7 +20,7 @@
 Here are some of my projects on Github that I am proud of:
 
 [![Resume Generator](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=resume-generator&show_icons=true&theme=dark)](https://github.com/ragpanv/resume-generator)
-[![Note Keeper](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=note-keeper&show_icons=true&theme=dark)](https://github.com/ragpanv/note-keeper)
+[![Note Keeper](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=notes-keeper&show_icons=true&theme=dark)](https://github.com/ragpanv/notes-keeper)
 [![Phone Directory](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=phone-directory&show_icons=true&theme=dark)](https://github.com/ragpanv/phone-directory)
 [![React forum](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=react-forum&show_icons=true&theme=dark)](https://github.com/ragpanv/react-forum)
 
