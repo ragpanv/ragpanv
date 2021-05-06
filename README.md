@@ -19,10 +19,10 @@
 
 Here are some of my projects on Github that I am proud of:
 
-[![Student Mark Sheet](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=resume-generator&show_icons=true&theme=dark)](https://github.com/ragpanv/resume-generator)
-[![voice-calculator](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=voice-calculator&show_icons=true&theme=dark)](https://github.com/ragpanv/voice-calculator)
+[![Resume Generator](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=resume-generator&show_icons=true&theme=dark)](https://github.com/ragpanv/resume-generator)
+[![Note Keeper](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=note-keeper&show_icons=true&theme=dark)](https://github.com/ragpanv/note-keeper)
 [![Phone Directory](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=phone-directory&show_icons=true&theme=dark)](https://github.com/ragpanv/phone-directory)
-[![Scientific Calculator Design](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=calulator_design&show_icons=true&theme=dark)](https://github.com/ragpanv/calulator_design)
+[![React forum](https://github-readme-stats.vercel.app/api/pin/?username=ragpanv&repo=react-forum&show_icons=true&theme=dark)](https://github.com/ragpanv/react-forum)
 
 ## 📚 My Skills
 
