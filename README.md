@@ -3,7 +3,7 @@
 
 ## 😉 About Me
 
-- 🔭 I’m currently working on [Disucssion-forum](https://github.com/ragpanv/discussion-forum)
+- 🔭 I’m currently working on Flutter App.
 
 - 🌱 I’m currently learning **React, Firebase and ML**
  
