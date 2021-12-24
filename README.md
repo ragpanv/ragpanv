@@ -3,14 +3,14 @@
 
 ## 😉 About Me
 
-- 🔭 I’m currently working on Flutter App.
+- 🔭 I’m currently working on Charity system using Blockchain.
 
-- 🌱 I’m currently learning **React, Firebase and ML**
+- 🌱 I’m currently learning **Blockchain, Solidity**
  
 - You can check out my projects right **[here](https://github.com/ragpanv)**.
 
 
-- 💬 Ask me about **React, Web Development and Android**
+- 💬 Ask me about **React, Web Development**
 
 - 📫 Contact me **[here](raginianvekar@gmail.com)**
 
