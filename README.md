@@ -3,9 +3,7 @@
 
 ## 😉 About Me
 
-- 🔭 I’m currently working on Charity system using Blockchain.
-
-- 🌱 I’m currently learning **Blockchain, Solidity**
+- 🌱 I’m currently learning **To Learn**
  
 - You can check out my projects right **[here](https://github.com/ragpanv)**.
 
